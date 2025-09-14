@@ -1,3 +1,2 @@
-This is my project 
-
-I edited it with Notepad
+This is Semme's project
+I added a new line
